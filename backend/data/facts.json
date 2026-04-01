@@ -1,0 +1,21 @@
+{
+    "full_name": "Yashaswini.K.S",
+    "name":"Yashaswini",
+    "current_role": "Senior Software Engineer",
+    "location": "Bangalore",
+    "email": "yashaswinianilbng@gmail.com",
+    "linkedin": "www.linkedin.com/in/yashaswini-ks",
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "BE",
+        "institution": "Sir MVIT",
+        "year": "2015"
+      }
+    ],
+    "training":[{
+       "programme":"Exclusive PG programm AI/ML",
+       "institution":"IIITB"
+     }
+    ]
+  }
